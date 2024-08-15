@@ -198,7 +198,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Estan - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EasyWinter) Estan
 
 Project Link: [SprotifyMusicBot](https://github.com/Mister-Man7/SprotifyMusicV3)
 
