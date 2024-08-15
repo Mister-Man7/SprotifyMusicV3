@@ -183,7 +183,7 @@ Don't forget to give the project a star! Thanks again!
 ### Top contributors:
 
 <a href="https://github.com/Mister-Man7/SprotifyMusicV3/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=Mister-Man7/SprotifyMusicV3" alt="contrib.rocks image" />
 </a>
 
 
