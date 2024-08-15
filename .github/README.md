@@ -83,14 +83,15 @@
 
 [SprotifyMusicBot](https://github.com/Mister-Man7/SprotifyMusicV3)is a Powerful Telegram Music Bot written in Python using Telethon by which you can listen to songs in Telegram Voice Chat
 
-
-
+* Written from scratch, making it stable and less crashes.
+* Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
+* For lag free music
+* pyrogram based
+* Multi-Language support
 
 ### Built With
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-
 
 
 <!-- GETTING STARTED -->
@@ -198,7 +199,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EasyWinter) Estan
+[![Estan](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EasyWinter)
 
 Project Link: [SprotifyMusicBot](https://github.com/Mister-Man7/SprotifyMusicV3)
 
