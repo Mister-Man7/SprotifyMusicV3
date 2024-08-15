@@ -1,25 +1,107 @@
-<img src="https://telegra.ph/file/877640c2a8cc1e55014aa.png" align="right" width="300" height="300"/>
-
-# Sakku MusicBot <img src="https://img.shields.io/github/v/release/deepaiimsss/SakkuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
-
-[Sakku MusicBot](https://github.com/deepaiimsss/SakkuMusicBot) is a Powerful Telegram Music Bot written in Python using  Telethon by which you can listen to songs in telegranm voice chat
-
-* Written from scratch, making it stable and less crashes.
-* Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
-* For lag free music
-* pyrogram based
-* Multi-Language support
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a id="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
 
-# ⚡️ Getting Started
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Mister-Man7/SprotifyMusicV3">
+    <img src="images/logo.jpg" alt="Logo" width="100" height="100">
+  </a>
+
+<h3 align="center">project_title</h3>
+
+  <p align="center">
+    project_description
+    <br />
+    <a href="https://github.com/Mister-Man7/SprotifyMusicV3"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Mister-Man7/SprotifyMusicV3">View Demo</a>
+    ·
+    <a href="https://github.com/Mister-Man7/SprotifyMusicV3/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/Mister-Man7/SprotifyMusicV3/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[SprotifyMusicBot](https://github.com/Mister-Man7/SprotifyMusicV3)is a Powerful Telegram Music Bot written in Python using Telethon by which you can listen to songs in Telegram Voice Chat
+
+
+
+
+### Built With
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
 
 ### Before deploying Sakku Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands]
 
-> If you want to start working with SakkuMusicBot you can either fork or import repo .
-> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/Aliza_support)
+> If you want to start working with SprotifyMusicBot you can either fork or import repo .
+> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/datarantinggi)
 
-
-## 🖇 Prerequisites
+### Prerequisites
 
 > In order to avoid conflicts in your project, you must have/installed
 
@@ -28,58 +110,139 @@
 - [Telegram Bot Token](https://t.me/botfather)
 - [API_ID](https://my.telegram.org)
 - [API_HASH](https://my.telegram.org)
+- [SESSION_STRING](https://t.me/PyrogramChat/123456)
+- [DATABASE_URL](https://www.mongodb.com/)
 
+### Deployment Methode
+# Heroku
 
-
-## 🚀 Heroku Deployment
-
-<h4>Click the button below to deploy SakkuMusicBot on Heroku!</h4>    
+<h4>Click the button below to deploy SprotifyMusicBot on Heroku!</h4>    
 <a href="https://heroku.com/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
-
-## 🏷 Support
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub Issues](https://github.com/deepaiimsss/sakkumuiscbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/deepaiimsss)
-- [Telegram Support](https://t.me/Aliza_Support)
-
-## 🎗 Project assistance
-
-If you want to say **thank you** or/and support active development of Sakku Music  bot:
-
-- Add a [GitHub Star](https://github.com/deepaiimsss/SakkuMusicBot) to the project.
-- Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
-
-PS: You can buy me a coffee too :)
-<p><a href="https://ko-fi.com/deepaiims" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-Together, we can make Aliza SpamBot **better**!
-
-## ✍🏻 Contributing
-
-First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
-Please read [our contribution guidelines](CONTRIBUTING.md), and thank you for being involved!
-
-## 👨🏻‍💻 Authors & contributors
-
-The original setup of this repository is by [Team Aliza](https://github.com/deepaiimsss).
-
-For a full list of all authors and contributors, see [the contributors page](https://github.com/deepaiimsss/SakkuMusicBot/contributors).
-
-## ⚠️ Security
-
-Aliza Robot follows good practices of security, but 100% security cannot be assured. SakkuMusic is provided **"as is"** without any **warranty**. Use at your own risk.
-
-For more information and to report security issues, please refer to our [`SECURITY.md`](SECURITY.md)
+# VPS [Recomended]
 
 
-## 🗂 License
+1. <b>Upgrade and Update</b>
+   ```sh
+   sudo apt-get update && sudo apt-get upgrade -y
+   ```
+2. <b>Installing Required Packages</b>
+   ```sh
+   sudo apt-get install python3-pip ffmpeg -y
+   ```
+3. <b>Setting up PIP</b>
+   ```sh
+   sudo pip3 install -U pip
+   ```
+4. Install Node
+   ```sh
+   curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+   ```
+5. <b>Make virtualenv</b>
+   ```sh
+   pip3 install python3-virtualenv -y
+   ```
+   ```sh
+   virtualenv sprotify
+   ```
+   ```sh
+   source sprotify/bin/activate #for activate your virtualenv (use: deactivate to deactivate your virtualenv)
+   ```
+6. <b>Install Requirements</b>
+    ```sh
+    pip3 install -U -r requirements.txt
+    ```
+7. <b>Fill up your Vars</b>
+    ```sh
+    cp sample.env .env
+    ```
+    ```sh
+    nano .env
+    ```
+8. <b>Run your f*cking bot</b>
+    ```sh
+    bash start
+    ```
 
-This project is licensed under the **GNU General Public License v3**. All designs were created by [@sakku](https://github.com/deepaiimsss) .
+<!-- CONTRIBUTING -->
+## Support & Contributing
 
-See [LICENSE](../LICENSE) for more information.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+### Top contributors:
+
+<a href="https://github.com/Mister-Man7/SprotifyMusicV3/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+</a>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+
+Project Link: [https://github.com/Mister-Man7/SprotifyMusicV3](https://github.com/Mister-Man7/SprotifyMusicV3)
+
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* []()
+* []()
+* []()
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-url]: https://github.com/Mister-Man7/SprotifyMusicV3/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-url]: https://github.com/Mister-Man7/SprotifyMusicV3/network/members
+[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-url]: https://github.com/Mister-Man7/SprotifyMusicV3/stargazers
+[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-url]: https://github.com/Mister-Man7/SprotifyMusicV3/issues
+[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-url]: https://github.com/Mister-Man7/SprotifyMusicV3/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username
+[product-screenshot]: images/screenshot.png
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte-url]: https://svelte.dev/
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://laravel.com
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
