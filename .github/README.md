@@ -21,7 +21,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][[issues-url](https://github.com/Mister-Man7/SprotifyMusicV3/issues)]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -198,9 +198,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Estan - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/Mister-Man7/SprotifyMusicV3](https://github.com/Mister-Man7/SprotifyMusicV3)
+Project Link: [SprotifyMusicBot](https://github.com/Mister-Man7/SprotifyMusicV3)
 
 
 
@@ -208,9 +208,10 @@ Project Link: [https://github.com/Mister-Man7/SprotifyMusicV3](https://github.co
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Pyrogram](https://docs.pyrogram.org/)
+* [TeamYukki](https://github.com/TeamYukki/YukkiMusicBot)
+* [└𖣘≛ιᴛs ᴍᴇメ🇨υτєʙᴏʏ≛𖣘┘](https://t.me/Itz_me_AR)
+* [MySelf](https://EasyWinter.t.me)
 
 
 
