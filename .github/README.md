@@ -21,7 +21,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][https://github.com/Mister-Man7/SprotifyMusicV3/issues]
+[![Issues][issues-shield]][[issues-url](https://github.com/Mister-Man7/SprotifyMusicV3/issues)]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
