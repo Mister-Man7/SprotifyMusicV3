@@ -1,8 +1,58 @@
-<img src="https://telegra.ph/file/877640c2a8cc1e55014aa.png" align="right" width="300" height="300"/>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Mister-Man7/SprotifyMusicV3">
+    <img src="/images/logo.jpg" alt="Logo" width="500" height="500">
+  </a>
 
-# Sakku MusicBot <img src="https://img.shields.io/github/v/release/deepaiimsss/SakkuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+<h3 align="center">SprotifyMusicBot</h3>
 
-[Sakku MusicBot](https://github.com/deepaiimsss/SakkuMusicBot) is a Powerful Telegram Music Bot written in Python using  Telethon by which you can listen to songs in telegranm voice chat
+  <p align="center">
+    Telegram Music/Video Player
+    <br />
+    <a href="https://github.com/Mister-Man7/SprotifyMusicV3"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Mister-Man7/SprotifyMusicV3">View Demo</a>
+    ·
+    <a href="https://github.com/Mister-Man7/SprotifyMusicV3/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/Mister-Man7/SprotifyMusicV3/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[SprotifyMusicBot](https://github.com/Mister-Man7/SprotifyMusicV3)is a Powerful Telegram Music Bot written in Python using Telethon by which you can listen to songs in Telegram Voice Chat
 
 * Written from scratch, making it stable and less crashes.
 * Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
@@ -10,16 +60,20 @@
 * pyrogram based
 * Multi-Language support
 
+### Built With
 
-# ⚡️ Getting Started
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+
+<!-- GETTING STARTED -->
+## Getting Started
 
 ### Before deploying Sakku Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands]
 
-> If you want to start working with SakkuMusicBot you can either fork or import repo .
-> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/Aliza_support)
+> If you want to start working with SprotifyMusicBot you can either fork or import repo .
+> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/datarantinggi)
 
-
-## 🖇 Prerequisites
+### Prerequisites
 
 > In order to avoid conflicts in your project, you must have/installed
 
@@ -28,58 +82,122 @@
 - [Telegram Bot Token](https://t.me/botfather)
 - [API_ID](https://my.telegram.org)
 - [API_HASH](https://my.telegram.org)
+- [SESSION_STRING](https://t.me/PyrogramChat/123456)
+- [DATABASE_URL](https://www.mongodb.com/)
 
+### Deployment Methode
+# Heroku
 
-
-## 🚀 Heroku Deployment
-
-<h4>Click the button below to deploy SakkuMusicBot on Heroku!</h4>    
+<h4>Click the button below to deploy SprotifyMusicBot on Heroku!</h4>    
 <a href="https://heroku.com/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
-
-## 🏷 Support
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub Issues](https://github.com/deepaiimsss/sakkumuiscbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/deepaiimsss)
-- [Telegram Support](https://t.me/Aliza_Support)
-
-## 🎗 Project assistance
-
-If you want to say **thank you** or/and support active development of Sakku Music  bot:
-
-- Add a [GitHub Star](https://github.com/deepaiimsss/SakkuMusicBot) to the project.
-- Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
-
-PS: You can buy me a coffee too :)
-<p><a href="https://ko-fi.com/deepaiims" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-Together, we can make Aliza SpamBot **better**!
-
-## ✍🏻 Contributing
-
-First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
-Please read [our contribution guidelines](CONTRIBUTING.md), and thank you for being involved!
-
-## 👨🏻‍💻 Authors & contributors
-
-The original setup of this repository is by [Team Aliza](https://github.com/deepaiimsss).
-
-For a full list of all authors and contributors, see [the contributors page](https://github.com/deepaiimsss/SakkuMusicBot/contributors).
-
-## ⚠️ Security
-
-Aliza Robot follows good practices of security, but 100% security cannot be assured. SakkuMusic is provided **"as is"** without any **warranty**. Use at your own risk.
-
-For more information and to report security issues, please refer to our [`SECURITY.md`](SECURITY.md)
+# VPS [Recomended]
 
 
-## 🗂 License
+1. <b>Upgrade and Update</b>
+   ```sh
+   sudo apt-get update && sudo apt-get upgrade -y
+   ```
+2. <b>Installing Required Packages</b>
+   ```sh
+   sudo apt-get install python3-pip ffmpeg -y
+   ```
+3. <b>Setting up PIP</b>
+   ```sh
+   sudo pip3 install -U pip
+   ```
+4. Install Node
+   ```sh
+   curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+   ```
+5. <b>Make virtualenv</b>
+   ```sh
+   pip3 install python3-virtualenv -y
+   ```
+   ```sh
+   virtualenv sprotify
+   ```
+   ```sh
+   source sprotify/bin/activate #for activate your virtualenv (use: deactivate to deactivate your virtualenv)
+   ```
+6. <b>Install Requirements</b>
+    ```sh
+    pip3 install -U -r requirements.txt
+    ```
+7. <b>Fill up your Vars</b>
+    ```sh
+    cp sample.env .env
+    ```
+    ```sh
+    nano .env
+    ```
+8. <b>Run your f*cking bot</b>
+    ```sh
+    bash start
+    ```
 
-This project is licensed under the **GNU General Public License v3**. All designs were created by [@sakku](https://github.com/deepaiimsss) .
+<!-- CONTRIBUTING -->
+## Support & Contributing
 
-See [LICENSE](../LICENSE) for more information.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+### Top contributors:
+
+<a href="https://github.com/Mister-Man7/SprotifyMusic/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Mister-Man7/SprotifyMusic" />
+</a>
+
+
+<!-- LICENSE -->
+## License
+
+MIT License
+
+Copyright (c) 2024 EasyWinter
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+<!-- CONTACT -->
+## Contact
+
+[![Estan](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EasyWinter)
+
+Project Link: [SprotifyMusicBot](https://github.com/Mister-Man7/SprotifyMusicV3)
+
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [Pyrogram](https://docs.pyrogram.org/)
+* [TeamYukki](https://github.com/TeamYukki/YukkiMusicBot)
+* [└𖣘≛ιᴛs ᴍᴇメ🇨υτєʙᴏʏ≛𖣘┘](https://t.me/Itz_me_AR)
+* [MySelf](https://EasyWinter.t.me)
