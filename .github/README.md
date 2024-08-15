@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Mister-Man7/SprotifyMusicV3">
-    <img src="/images/logo.jpg" alt="Logo" width="100" height="100">
+    <img src="/images/logo.jpg" alt="Logo" width="500" height="500">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">SprotifyMusicBot</h3>
 
   <p align="center">
-    project_description
+    Telegram Music/Video Player
     <br />
     <a href="https://github.com/Mister-Man7/SprotifyMusicV3"><strong>Explore the docs »</strong></a>
     <br />
