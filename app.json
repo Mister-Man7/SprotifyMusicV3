@@ -1,12 +1,12 @@
 {
-    "name": "Sakshi Music",
+    "name": "Sprpotify Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/b8a0c1a00db3e57522b53.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Sakku",
+    "Sprotify",
     "MusicBot",
     "telegram-bot",
     "pyrogram"

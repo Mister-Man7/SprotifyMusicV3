@@ -68,7 +68,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Before deploying Sakku Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands]
+### Before deploying Sprotify Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands]
 
 > If you want to start working with SprotifyMusicBot you can either fork or import repo .
 > If you'd like to talk to us, join us on our [Telegram Group](https://t.me/datarantinggi)
