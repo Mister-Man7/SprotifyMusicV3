@@ -249,7 +249,7 @@ def isArgInt(txt) -> list:
 
 @app.on_message(filters.command(["q", "r"]) & filters.reply)
 async def msg_quotly_cmd(self: app, ctx: Message):
-    ww = await ctx.reply_text("ᴡᴀɪᴛ ᴀ sᴇᴄᴏɴᴅ......")
+    ww = await ctx.reply_text("Wait a second......")
     is_reply = False
     if ctx.command[0].endswith("r"):
         is_reply = True
