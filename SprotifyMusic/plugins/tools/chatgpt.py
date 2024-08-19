@@ -18,7 +18,7 @@ async def gpt_bot(m, message):
         await m.send_chat_action(message.chat.id, ChatAction.TYPING)
         x=response["results"]
         
-        await message.reply_text(f"{x}\n\n**😎Powered by @SprotifyMusicBot**", ParseMode.MARKDOWN)
+        await message.reply_text(f"{x}\n\n**😎Powered by @SprotifyMusicBot**", parse_mode=ParseMode.MARKDOWN)
         
             
     except requests.exceptions.RequestException as e:
