@@ -9,6 +9,7 @@ hachoir
 httpx[http2]
 heroku3
 motor
+MukeshAPI
 pillow
 psutil
 py-tgcalls==0.9.7
