@@ -1,7 +1,7 @@
 import asyncio
 
 from pyrogram import filters
-from pyrogram.enums import ChatMembersFilter
+from pyrogram.enums import ChatMembersFilter, ParseMode
 from pyrogram.errors import FloodWait
 
 from SprotifyMusic import app
@@ -64,6 +64,7 @@ async def braodcast_message(client, message, _):
                         from_chat_id=y,
                         message_id=x,
                         reply_markup=message.reply_to_message.reply_markup,
+                        parse_mode=ParseMode.MARKDOWN,
                     )
                     if "-pin" in message.text:
                         try:
@@ -127,6 +128,7 @@ async def braodcast_message(client, message, _):
                         from_chat_id=y,
                         message_id=x,
                         reply_markup=message.reply_to_message.reply_markup,
+                        parse_mode=ParseMode.MARKDOWN,
                     )
                     susr += 1
                     await asyncio.sleep(0.1)
