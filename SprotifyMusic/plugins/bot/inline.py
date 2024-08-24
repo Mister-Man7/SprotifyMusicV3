@@ -51,7 +51,7 @@ async def inline_query_handler(client, query):
 ❐ <b>Published On:</b> {published}
 
 
-<u><b>❐ ** Inline Search By {app.name}</b></u>"""
+<u><b>❐ Inline Search By {app.name}</b></u>"""
             answers.append(
                 InlineQueryResultPhoto(
                     photo_url=thumbnail,

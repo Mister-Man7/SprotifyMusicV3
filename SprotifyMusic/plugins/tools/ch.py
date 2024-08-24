@@ -21,5 +21,5 @@ async def respondtobomt(client, message: Message):
         DISK = DISK.replace("%", "")
     active_voice = len(await get_active_chats())
     active_video = len(await get_active_video_chats())
-    x = f"{DISK}_+_{CPU}_+_{UP}_+_{active_voice}_+_{active_video}"
+    x = f"<b><u>Bot Status</b></u>\n\nDisk: {DISK}\nCPU: {CPU}\nUptime: {UP}\nStatus: {active_voice} active voice {active_video} active video"
     await message.reply_text(x) 
