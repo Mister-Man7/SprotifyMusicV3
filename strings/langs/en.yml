@@ -89,7 +89,7 @@ start_2 : "Hey, {0}.\nI'm a telegram streaming bot with some useful features.\n\
 start_3 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
 start_4 : "❗️ <b>Supergroup Needed<b> ❗️\n\nPlease convert your <b>group</b> to <b>supergroup</b> and then add me back.\n\n<b>How to make supergroup?</b>\n✅ Make your group's chat history <b>visible</b> once.."
 start_5 : "<b>Black listed ↜</b>\n\nThis chat is blacklisted on {0} ᴅᴀᴛᴀʙᴀsᴇ.\nRequest a <a href={1}>Sudo User</a> to unblacklist your chat or visit <a href={2}>Support Chat.</a>"
-start_6 : "<b>Track Information</b> \n\n<b>❐ Title :</b> {0}\n\n└❐ <b>Duration:</b> {1} Minutes\n└❐ <b>Views :</b> <code>{2}</code>\n└❐ <b>Published on :</b> {3}\n└❐ <b>Channel :</b> <a href={4}>{5}</a>\n\n<u><b>└Searched by {6}</b></u>"
+start_6 : "<b>Track Information</b> \n\n<b>❐ Title :</b> {0}\n\n⏵<b>Duration:</b> {1} Minutes\n⏵<b>Views :</b> <code>{2}</code>\n⏵<b>Published on :</b> {3}\n⏵<b>Channel :</b> <a href={4}>{5}</a>\n\n<u><b>└Searched by {6}</b></u>"
 
 help_1 : "Click on the buttons below for more information. If you're facing any problem in command you can contact my bot owner or ask in support chat.\n\nAll commands can be used with: /"
 help_2 : "Contact me in PM for help."
@@ -180,14 +180,14 @@ song_11 : "Uploading Started\n\nUploading speed could be slow. Please hold on.."
 queue_1 : "Please Wait..Fetching Queue.."
 queue_2 : "Queued List is empty. No tracks found"
 queue_3 : "<u>Click here to check the list of the queued tracks :</u> <a href={0}>Here</a>"
-queue_4 : "⏳ Added to Queue at #{0}\n\n<b>❐ Title :</b> {1}\n<b>❐ Duration:</b> {2} Minutes\n<b>└Added By :</b> {3}"
+queue_4 : "☑ Added to Queue at #{0}\n\n<b>⏵Title :</b> {1}\n<b>⏵Duration:</b> {2} Minutes\n<b>⏵Added By :</b> {3}"
 queue_5 : "Only one track inside queue, Please add some more to check lis."
-queue_6 : "<b>❐ Duration :</b> Unknown Duration Stream\n\nClick on the button below to get the whole queued list."
+queue_6 : "<b>⏵Duration :</b> Unknown Duration Stream\n\nClick on the button below to get the whole queued list."
 queue_7 : "\nClick on the button below to get the whole queued list."
-queue_8 : "<b>{0} Player</b>\n\n❐ <b>Streaming :</b> {1}\n\n❐ <b>Stream Type :</b> {2}\n <b>└Added By :</b> {3}\n{4}"
+queue_8 : "<b>{0} Player</b>\n\n⏵<b>Streaming :</b> {1}\n\n⏵<b>Stream Type :</b> {2}\n <b>⏵Added By :</b> {3}\n{4}"
 
-stream_1 : "❐ <b>Started Streaming</b>\n|\n<b>└❐ Title :</b> <a href={0}>{1}</a>\n<b>└❐ Duration :</b> {2} Minutes\n<b>└❐ Requested By :</b> {3}"
-stream_2 : "❐ <b>Started Streaming</b>\n|\n<b>└❐ Stream Type :</b> Live Stream [URL]\n<b>└❐ Requested By :</b> {0}"
+stream_1 : "☑ <b>Started Streaming</b>\n\n<b>⏵Title :</b> <a href={0}>{1}</a>\n<b>⏵Duration :</b> {2} Minutes\n<b>⏵Requested By :</b> {3}"
+stream_2 : "☑ <b>Started Streaming</b>\n\n<b>⏵Stream Type :</b> Live Stream [URL]\n<b>⏵Requested By :</b> {0}"
 
 
 CLOSE_BUTTON  : "🗑 Close"
